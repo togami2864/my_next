@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hackson-dev-232859-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730811875964:role/amplify-hackson-dev-232859-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730811875964:role/amplify-hackson-dev-232859-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-hackson-dev-232859-deployment",
+      "UnauthRoleName": "amplify-hackson-dev-232859-unauthRole",
+      "StackName": "amplify-hackson-dev-232859",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:730811875964:stack/amplify-hackson-dev-232859/728331b0-8d76-11eb-8fef-066ecef1537f",
+      "AmplifyAppId": "dej6cjcby781u"
+    }
+  }
+}
